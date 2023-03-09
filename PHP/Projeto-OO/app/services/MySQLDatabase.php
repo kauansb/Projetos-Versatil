@@ -4,7 +4,7 @@ class MySQLDatabase
     private $conexao;
     private $Username = "root";
     private $Host = "localhost"; # o mesmo que 'localhost'
-    private $Password = "kauansb22";
+    private $Password = "";
     private $BancoDeDados = "versatil_projeto";
 
     public function __construct() 
